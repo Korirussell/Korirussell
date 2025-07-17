@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Kori<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love diving into distributed systems, ful-stack development, and solving challenging problems with code.<br><br>Feel free to explore my work!
+Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love diving into distributed systems, ful-stack development, and solving challenging problems with code.<br><br>Feel free to explore my work!
 
 
 ## 🌐 Socials:
