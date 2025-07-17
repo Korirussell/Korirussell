@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Kori Russell 👋<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love diving into distributed systems, ful-stack development, and solving challenging problems with code.<br><br>My toolkit includes Java, Python, JavaScript, React, Next.js, Flask, and WebSockets. I'm always eager to learn and create impactful solutions.<br><br>Feel free to explore my work!
+Hey there! I'm Kori Russell 👋<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love diving into distributed systems, ful-stack development, and solving challenging problems with code.<br><br>Feel free to explore my work!
 
 
 ## 🌐 Socials:
