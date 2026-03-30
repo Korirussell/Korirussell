@@ -2,7 +2,7 @@
 Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love doing hackathons, ful-stack development, and solving challenging problems with code.<br><br>Feel free to explore my work!
 
 ## 🏆 Hackathon Awards (8 Total):
-
+Check my projects out on [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
 | Competition | Project | Awards Won |
 | :--- | :--- | :--- |
 | **CUHackit 2026** | **Real-Time Speech Corrector** | 🥇 Best Industry Impact <br> 🥇 Hack for Good <br> 🥇 Best Use of ElevenLabs |
@@ -10,7 +10,7 @@ Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, pa
 | **UGAHacks 11** | **Carbon-Aware AI Router** | 🥇 Best Use of AI <br> 🥇 Best Sustainability |
 | **UA Innovate** | **AI Financial Chatbot** | 🥇 1st Place ($1,000 Grant) |
 
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koriirussell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koriirussell@gmail.com) 
