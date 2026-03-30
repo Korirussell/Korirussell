@@ -5,10 +5,12 @@ Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, pa
 
 | Competition | Project | Awards Won |
 | :--- | :--- | :--- |
-| **CUHackit 2026** | **Real-Time Speech Corrector** | [cite_start]🥇 Best Industry Impact <br> 🥇 Hack for Good <br> 🥇 Best Use of ElevenLabs [cite: 41, 42] |
-| **VandyHacks 12** | **Agentic Digital Audio DAW** | [cite_start]🥇 1st Place Overall <br> 🥇 Best Use of ElevenLabs [cite: 31] |
-| **UGAHacks 11** | **Carbon-Aware AI Router** | [cite_start]🥇 Best Use of AI <br> 🥇 Best Sustainability [cite: 37, 38] |
-| **UA Innovate** | **AI Financial Chatbot** | [cite_start]🥇 1st Place ($1,000 Grant) [cite: 45, 46] |
+| **CUHackit 2026** | **Real-Time Speech Corrector** | 🥇 Best Industry Impact <br> 🥇 Hack for Good <br> 🥇 Best Use of ElevenLabs |
+| **VandyHacks 12** | **Agentic Digital Audio DAW** | 🥇 1st Place Overall <br> 🥇 Best Use of ElevenLabs |
+| **UGAHacks 11** | **Carbon-Aware AI Router** | 🥇 Best Use of AI <br> 🥇 Best Sustainability |
+| **UA Innovate** | **AI Financial Chatbot** | 🥇 1st Place ($1,000 Grant) |
+
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koriirussell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koriirussell@gmail.com) 
