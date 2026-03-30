@@ -5,10 +5,10 @@ Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, pa
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
 | Competition | Project | Awards Won |
 | :--- | :--- | :--- |
-| **CUHackit 2026** | **Real-Time Speech Corrector** | 🥇 [Clemson School of Computing] Best Industry Impact <br> 🥇 Best Hack for Good <br> 🥇 [MLH] Best Use of ElevenLabs |
-| **VandyHacks 12** | **Agentic Digital Audio DAW** | 🥇 1st Place Overall <br> 🥇 [MLH] Best Use of ElevenLabs |
-| **UGAHacks 11** | **Carbon-Aware AI Router** | 🥇 [Reach Capital] Best Use of AI <br> 🥇 [Cox] Best Sustainability |
-| **UA Innovate** | **AI Financial Chatbot** | 🥇 [PNC Bank] 1st Place ($1,000 Grant) |
+| **CUHackit 2026** | **Clarity** | 🥇 Best Industry Impact <br> 🥇 Best Hack for Good <br> 🥇 [MLH] Best Use of ElevenLabs |
+| **VandyHacks 12** | **Wonder** | 🥇 1st Place Overall <br> 🥇 [MLH] Best Use of ElevenLabs |
+| **UGAHacks 11** | **Sorcer** | 🥇 [Reach Capital] Best Use of AI <br> 🥇 [Cox] Best Sustainability |
+| **UA Innovate** | **Money Trees** | 🥇 [PNC Bank] 1st Place ($1,000 Grant) |
 
 
 
