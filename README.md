@@ -1,6 +1,6 @@
 # About Me:
 Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love doing hackathons, ful-stack development, and solving challenging problems with code.<br><br>Feel free to explore my work!
-
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kori-russell.com/) 
 ## 🏆 Hackathon Awards (8 Total):
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
 | Competition | Project | Awards Won |
