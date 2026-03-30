@@ -2,13 +2,13 @@
 Hi! I'm Kori.<br>I'm a Computer Science student at the University of Alabama, passionate about building robust software and scalable web experiences. I love doing hackathons, ful-stack development, and solving challenging problems with code.<br><br>Feel free to explore my work!
 
 ## 🏆 Hackathon Awards (8 Total):
-Check my projects out on [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/Korirussell) 
 | Competition | Project | Awards Won |
 | :--- | :--- | :--- |
-| **CUHackit 2026** | **Real-Time Speech Corrector** | 🥇 Best Industry Impact <br> 🥇 Hack for Good <br> 🥇 Best Use of ElevenLabs |
-| **VandyHacks 12** | **Agentic Digital Audio DAW** | 🥇 1st Place Overall <br> 🥇 Best Use of ElevenLabs |
-| **UGAHacks 11** | **Carbon-Aware AI Router** | 🥇 Best Use of AI <br> 🥇 Best Sustainability |
-| **UA Innovate** | **AI Financial Chatbot** | 🥇 1st Place ($1,000 Grant) |
+| **CUHackit 2026** | **Real-Time Speech Corrector** | 🥇 [Clemson School of Computing] Best Industry Impact <br> 🥇 Best Hack for Good <br> 🥇 [MLH] Best Use of ElevenLabs |
+| **VandyHacks 12** | **Agentic Digital Audio DAW** | 🥇 1st Place Overall <br> 🥇 [MLH] Best Use of ElevenLabs |
+| **UGAHacks 11** | **Carbon-Aware AI Router** | 🥇 [Reach Capital] Best Use of AI <br> 🥇 [Cox] Best Sustainability |
+| **UA Innovate** | **AI Financial Chatbot** | 🥇 [PNC Bank] 1st Place ($1,000 Grant) |
 
 
 
